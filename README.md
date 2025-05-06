@@ -1,2 +1,2 @@
-# spring-boo-example
+# spring-boot-example
 spring boot simple example
