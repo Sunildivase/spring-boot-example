@@ -21,7 +21,10 @@ target/
 .mvn
 .gitattributes
 mvnw.cmd
-.
+.gitattributes
+mvnw.cmd
+mvnw
+.mvn
 
 ### NetBeans ###
 /nbproject/private/
